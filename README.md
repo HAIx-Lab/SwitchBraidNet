@@ -1,7 +1,4 @@
-# Quantized Hybrid Brain-Computer Interfaces
-
-> **SwitchBraidNet: Quantisation-Aware Lightweight Architecture for Hybrid Brain-Computer Interface**
->
+# SwitchBraidNet: Quantisation-Aware Lightweight Architecture for Hybrid Brain-Computer Interface
 > Accepted at the **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2026**
 
 This repository contains the official implementation of **SwitchBraidNet**, a lightweight EEG classification architecture designed for quantized hybrid Brain-Computer Interface (hBCI) systems. The framework supports Quantization-Aware Training (QAT) at multiple precision levels (FP32, FP16, INT8) and evaluates both single-paradigm and hybrid BCI performance using the [OpenBMI](http://gigadb.org/dataset/100542) dataset.
