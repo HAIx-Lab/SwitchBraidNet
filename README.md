@@ -1,6 +1,6 @@
 # Quantized Hybrid Brain-Computer Interfaces
 
-> **Quantized Hybrid Brain-Computer Interfaces: Evaluating Quantization-Aware Training for Multi-Paradigm EEG Classification on Edge Devices**
+> **SwitchBraidNet: Quantisation-Aware Lightweight Architecture for Hybrid Brain-Computer Interface**
 >
 > Accepted at the **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2026**
 
@@ -150,8 +150,8 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @inproceedings{siddhad2026quantized,
-  title     = {Quantized Hybrid Brain-Computer Interfaces: Evaluating Quantization-Aware Training for Multi-Paradigm EEG Classification on Edge Devices},
-  author    = {Siddhad, Gourav and Gupta, Anmol and Bapi, Raju S.},
+  title     = {SwitchBraidNet: Quantisation-Aware Lightweight Architecture for Hybrid Brain-Computer Interface},
+  author    = {Siddhad, Gourav and Meena, Yogesh Kumar},
   booktitle = {IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
   year      = {2026}
 }
